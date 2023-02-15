@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header .logo{
+    width: 6%;
+    position: relative;
+    left: 5vw;
+}
+
+.navbar .nav{
+    padding: 0 5vw 0 0 ;
+    position: relative;
+    left: 55vw;
+    bottom: 4.5vw;
+}
+.navbar a{
+    font-family: sans-serif;
+    text-decoration: none;
+    color: black;
+    font-size: 1.5vw;
+}
+.navbar img{
+    width: 1%;
+}
+
+.head{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 6vw;
+    color:#2E3D3D;
+    position: relative;
+    left: 5.5vw;
+}
+
+.ice{
+    display: flex;
+   
+}
+.ice .about {
+    padding: 1vw 0;
+    width: 25%;
+    position: relative;
+    left: 5.5vw;
+    font-size: .8vw;
+    
+}
+.ice .txt{
+    z-index: 2;
+}
+.ice button{
+    border-color: #005469;
+    border-width: .15vw;
+    border-radius: 5vw;
+    padding: 0.5vw 1.5vw;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1vw;
+    position: relative;
+    left: 5.5vw;
+}
+.thumbnail img{
+    width: 50vw;
+    position: relative;
+    right: 10vw;
+    z-index: 2;
+}
+
+.bglower{
+    position: relative;
+    bottom: 13vw;
+    z-index: 1;
+    width: 100%;
+}
