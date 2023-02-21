@@ -148,6 +148,20 @@ padding-left: 1%;
     width:9%;
 }
 
+.back button{
+    background-color: #2E3D3D;
+    border-color: #2E3D3D;
+    color: white;
+    margin: 3vw;
+    border-width: 0;
+    border-radius: 5vw;
+    padding: 0.2vw 1vw;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1vw;
+    position: relative;
+    left: 43vw;
+}
 footer img{
     display: block;
     margin-left: auto;
@@ -159,3 +173,9 @@ footer p{
     padding: 1vw;
     font-size: 1vw;
 }
+
+
+
+
+
+
